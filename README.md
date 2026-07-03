@@ -72,7 +72,7 @@ pip install tkinterdnd2
 
 Run the project:
 
-```bash
+bash
 python main.py
 ```
 
@@ -92,3 +92,21 @@ python main.py
 **Shobit Singh**
 
 Cybersecurity Enthusiast | Python Developer | Student
+
+
+---
+
+# 📸 Screenshots
+
+## Login Page
+
+![Login]("C:\Users\asus\Downloads\Project\secure file sharing\screenshots\Login.png (2).png")
+
+## Dashboard
+
+![Dashboard]("C:\Users\asus\Downloads\Project\secure file sharing\screenshots\Dashboard.png.png")
+
+
+## decryption Success
+
+![decryption]("C:\Users\asus\Downloads\Project\secure file sharing\screenshots\decryption.png.png")
