@@ -100,13 +100,12 @@ Cybersecurity Enthusiast | Python Developer | Student
 
 ## Login Page
 
-![Login]("C:\Users\asus\Downloads\Project\secure file sharing\screenshots\Login.png (2).png")
+![Login](screenshots/login.png)
 
 ## Dashboard
 
-![Dashboard]("C:\Users\asus\Downloads\Project\secure file sharing\screenshots\Dashboard.png.png")
+![Dashboard](screenshots/dashboard.png)
 
+## Decryption Success
 
-## decryption Success
-
-![decryption]("C:\Users\asus\Downloads\Project\secure file sharing\screenshots\decryption.png.png")
+![Decryption](screenshots/decryption.png)
